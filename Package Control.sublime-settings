@@ -8,6 +8,7 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Babel"
 		"ApplySyntax",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -19,6 +20,8 @@
 		"JSX",
 		"Multibyte Word Separators",
 		"Package Control",
-		"SCSS"
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
 	]
 }
