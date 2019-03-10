@@ -5,15 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
 		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorcoder",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
+		"Multibyte Word Separators",
 		"Package Control",
 		"SCSS"
 	]

@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -16,15 +17,16 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Colorcoder"
 	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"remember_open_files": false,
 	"rulers":
 	[
 		80
 	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
